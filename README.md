@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam2615&label=Profile%20views&color=0e75b6&style=flat" alt="shyam2615" /> </p>
+<p align="left" style={"margin-left":"10px"}> <img src="https://komarev.com/ghpvc/?username=shyam2615&label=Profile%20views&color=0e75b6&style=flat" alt="shyam2615" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam2615" alt="shyam2615" /></a> </p>
 
